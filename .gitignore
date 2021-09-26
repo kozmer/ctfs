@@ -1,0 +1,4 @@
+.gdbhistory
+.gdb_history
+*.pyc
+*.swp
