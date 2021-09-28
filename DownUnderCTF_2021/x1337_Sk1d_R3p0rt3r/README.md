@@ -26,7 +26,7 @@ Then we close the comment and add another alert within report:
 
 Now for the final step, we can add our payload to get the admin cookie, the problem is we cant use quotes since they get escaped, so we use backticks instead!
 
-![Untitled](Untitled_06.png)
+![Untitled](Untitled_6.png)
 
 Now once we send this, it will redirect us to webhook.site, this isn't useful as we want an admin to see it, but everytime we try to click it, it redirects us... So what we can do is copy the link of the last payload to view its report id:
 
